@@ -13,7 +13,6 @@
   --ocean-color1: #FF6F83;
   --ocean-color2: #000000;
   --ocean-color3: #4C2D31;
-  --ocean-color4: #79C0FF;
   --ocean-emoji-picker-color: 0deg;
 }
 
@@ -171,23 +170,6 @@ body {
 .markup-eYLPri blockquote, .markup-eYLPri pre {
   max-width: 100%;
 }
-.cozyMessage-1DWF9U .contents-2MsGLg > .anchor-1MIwyf:not(:empty) {
-  background-color: var(--ocean-color1);
-  color: var(--ocean-color4);
-  display: inline-block;
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 8px;
-  border-radius: 15px;
-}
-
-.anchor-1MIwyf blockquote, .anchor-1MIwyf pre {
-  max-width: 100%;
-}
-
 
 
 .homeIcon-r0w4ny path {fill: transparent}
@@ -608,9 +590,6 @@ button[aria-label="Send a gift"] {
 }
 .markup-eYLPri a {
   color: var(--ocean-color2);
-}
-.anchor-1MIwyf a {
-  color: var(--ocean-color4);
 }
 .topic-11NuQZ.expandable-3CaLeS {
   color: var(--ocean-color2);
