@@ -157,7 +157,7 @@ body {
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
   background-color: var(--ocean-color1);
-  color: var(--ocean-color4);
+  color: var(--ocean-color2);
   display: inline-block;
   max-width: 650px;
   width: -webkit-fit-content;
@@ -591,7 +591,7 @@ button[aria-label="Send a gift"] {
   color: var(--ocean-color1);
 }
 .markup-eYLPri a {
-  color: var(--ocean-color4);
+  color: var(--ocean-color2);
 }
 .topic-11NuQZ.expandable-3CaLeS {
   color: var(--ocean-color2);
