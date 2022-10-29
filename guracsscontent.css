@@ -384,21 +384,6 @@ button[aria-label="Send a gift"] {
 .wordmark-2u86JB > svg {
   display: none;
 }
-.wordmark-2u86JB {
-  display: flex;
-  align-items: center;
-  padding: 0 6px;
-  height: calc(100% + 4px);
-  top: -4px;
-  width: fit-content;
-  font-size: 14px;
-  font-weight: 600;
-  font-family: "Lato";
-  color: var(--ocean-color1);
-}
-.wordmark-2u86JB > svg {
-  display: none;
-}
 
 .wordmark-2u86JB:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
