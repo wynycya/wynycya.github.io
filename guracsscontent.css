@@ -154,16 +154,6 @@ body {
 .button-38aScr .contents-18-Yxp path {
   color: var(--ocean-color1);
 }
-.contents-2MsGLg > .header-2jRmjb:not(:empty) {
-  color: var(--ocean-color2);
-}
-
-.header-2jRmjb blockquote, .header-2jRmjb pre {
-  max-width: 100%;
-}
-.header-2jRmjb a {
-  color: var(--ocean-color2);
-}
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
   background-color: var(--ocean-color1);
