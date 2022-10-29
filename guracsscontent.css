@@ -74,7 +74,9 @@ body {
 .withFrame-2dL45i {
   backdrop-filter: blur(var(--sides-blur));
 }
-#app-mount .children-3xh0VB:after,
+#app-mount .children-3xh0VB:after {
+  color: var(--ocean-color5);
+}
 #app-mount .form-3gdLxP:before {
   display: none;
 }
