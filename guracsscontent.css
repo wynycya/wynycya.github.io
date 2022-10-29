@@ -488,6 +488,11 @@ button[aria-label="Send a gift"] {
   color: var(--ocean-color1);
 }
 
+.username-3JLfHz,
+.discriminator-2m-MqL,
+.overflowMenuIcon-2Bjb5_ {
+  color: var(--ocean-color3);
+}
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
   color: var(--ocean-color2);
   background-color: var(--ocean-color1);
