@@ -382,7 +382,7 @@ button[aria-label="Send a gift"] {
   color: var(--ocean-color1);
 }
 .wordmark-2u86JB > svg {
-  display: none;
+  display: true;
 }
 
 .channelName-3KPsGw,
