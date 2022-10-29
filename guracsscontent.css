@@ -171,6 +171,22 @@ body {
 .markup-eYLPri blockquote, .markup-eYLPri pre {
   max-width: 100%;
 }
+.cozyMessage-1DWF9U .contents-2MsGLg > .anchor-1MIwyf:not(:empty) {
+  background-color: var(--ocean-color1);
+  color: var(--ocean-color4);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.anchor-1MIwyf blockquote, .anchor-1MIwyf pre {
+  max-width: 100%;
+}
 
 
 
