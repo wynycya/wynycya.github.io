@@ -13,6 +13,7 @@
   --ocean-color1: #FF6F83;
   --ocean-color2: #000000;
   --ocean-color3: #4C2D31;
+  --ocean-color4: #79C0FF;
   --ocean-emoji-picker-color: 0deg;
 }
 
@@ -589,7 +590,7 @@ button[aria-label="Send a gift"] {
   color: var(--ocean-color1);
 }
 .markup-eYLPri a {
-  color: var(--ocean-color2);
+  color: var(--ocean-color4);
 }
 .topic-11NuQZ.expandable-3CaLeS {
   color: var(--ocean-color2);
