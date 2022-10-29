@@ -77,6 +77,7 @@ body {
 #app-mount .children-3xh0VB:after,
 #app-mount .form-3gdLxP:before {
   display: true;
+  color: var(--ocean-color5);
 }
 .appMount-2yBXZl {
   background: var(--ocean-bg) center/cover no-repeat;
