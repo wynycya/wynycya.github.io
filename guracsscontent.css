@@ -154,7 +154,7 @@ body {
 .button-38aScr .contents-18-Yxp path {
   color: var(--ocean-color1);
 }
-.cozyMessage-1DWF9U .contents-2MsGLg > .header-2jRmjb:not(:empty) {
+.contents-2MsGLg > .header-2jRmjb:not(:empty) {
   background-color: var(--ocean-color1);
   color: var(--ocean-color2);
   display: inline-block;
