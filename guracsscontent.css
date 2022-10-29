@@ -154,25 +154,7 @@ body {
 .button-38aScr .contents-18-Yxp path {
   color: var(--ocean-color1);
 }
-.contents-2MsGLg > .header-2jRmjb:not(:empty) {
-  background-color: var(--ocean-color1);
-  color: var(--ocean-color2);
-  display: inline-block;
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 8px;
-  border-radius: 15px;
-}
 
-.header-2jRmjb blockquote, .header-2jRmjb pre {
-  max-width: 100%;
-}
-.header-2jRmjb code.inline {
-  color: var(--ocean-color1);
-}
 .header-2jRmjb a {
   color: var(--ocean-color2);
 }
