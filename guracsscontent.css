@@ -13,6 +13,7 @@
   --ocean-color1: #FF6F83;
   --ocean-color2: #000000;
   --ocean-color3: #4C2D31;
+  --ocean-color3: #00FFFF;
   --ocean-emoji-picker-color: 0deg;
 }
 
@@ -156,7 +157,7 @@ body {
 
 .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
   background-color: var(--ocean-color1);
-  color: var(--ocean-color2);
+  color: var(--ocean-color3);
   display: inline-block;
   max-width: 650px;
   width: -webkit-fit-content;
@@ -594,6 +595,9 @@ button[aria-label="Send a gift"] {
 }
 .markup-eYLPri code.inline {
   color: var(--ocean-color1);
+}
+.markup-eYLPri a {
+  color: var(--ocean-color3);
 }
 .topic-11NuQZ.expandable-3CaLeS {
   color: var(--ocean-color2);
