@@ -11,10 +11,10 @@
   --ocean-bg: url(https://cdn.discordapp.com/attachments/1017335636950261852/1041715209326309386/hehehe.png);
   --ocean-home-icon: url(https://cdn.discordapp.com/attachments/1017335636950261852/1035795449417842758/ZrBJqhoc_400x4002.jpg);
   --ocean-color1: #FF6F83;
-  --ocean-color2: #000000;
+  --ocean-color2: #FFFFFF;
   --ocean-color3: #4C2D31;
   --ocean-color4: #164C81;
-  --ocean-color5: #FFFFFF;
+  --ocean-color5: #000000;
   --ocean-emoji-picker-color: 0deg;
 }
 
@@ -460,7 +460,7 @@ button[aria-label="Send a gift"] {
 
 .background-3d_SjE {
   padding: 0;
-  background-color: var(--ocean-color2);
+  background-color: var(--ocean-color5);
   border-radius: 30px;
 }
 .background-3d_SjE .profile-1o7I_1 {
