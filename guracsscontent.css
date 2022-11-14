@@ -80,7 +80,7 @@ body {
   display: none;
 }
 .appMount-2yBXZl {
-  --primary-color: rgba(0,0,0,var(--background-darkness));
+  background: rgba(0,0,0,var(--background-darkness));
   background: var(--ocean-bg) center/cover no-repeat;
 }
 .withFrame-2dL45i {
