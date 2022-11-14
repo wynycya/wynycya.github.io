@@ -16,7 +16,6 @@
   --ocean-color4: #164C81;
   --ocean-color5: #FFFFFF;
   --ocean-emoji-picker-color: 0deg;
-  --background-darkness: 0.75;
 }
 
 #app-mount .container-2cd8Mz,
@@ -80,7 +79,7 @@ body {
   display: none;
 }
 .appMount-2yBXZl {
-  background: rgba(0,0,0,var(--background-darkness));
+  background-color: transparent;
   background: var(--ocean-bg) center/cover no-repeat;
 }
 .withFrame-2dL45i {
