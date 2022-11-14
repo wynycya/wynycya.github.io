@@ -978,6 +978,6 @@ button[aria-label="Send a gift"] {
 }
 
 ::selection {
-  background-color: var(--ocean-color2);
+  background-color: var(--ocean-color5);
   color: var(--ocean-color1);
 }
