@@ -410,6 +410,8 @@ button[aria-label="Send a gift"] {
 .modeSelected-3DmyhH .icon-2W8DHg,
 .modeSelected-3DmyhH:hover .icon-2W8DHg,
 .modeUnread-3Cxepe .icon-2W8DHg,
+.modeUnread-3Cxepe .channelName-3KPsGw,
+.modeSelected-3DmyhH:hover .channelName-3KPsGw,
 .modeUnread-3Cxepe:hover .icon-2W8DHg {
   color: var(--ocean-color1);
 }
@@ -440,11 +442,11 @@ button[aria-label="Send a gift"] {
   background: var(--ocean-color2);
 }
 .overflow-1wOqNV {
-  color: var(--ocean-color1);
+  color: var(--ocean-color2);
 }
 
 .icon-3zI3d2 {
-  color: var(--ocean-color1);
+  color: var(--ocean-color2);
 }
 .actionIcon-2sw4Sl {
   color: var(--ocean-color1);
