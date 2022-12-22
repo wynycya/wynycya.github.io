@@ -385,7 +385,7 @@ button[aria-label="Send a gift"] {
 
 .channelName-3KPsGw,
 .subtitle-3PyFgf {
-  color: var(--ocean-color1);
+  color: var(--ocean-color2);
 }
 
 .categoryIcon-2cYeku {
@@ -405,13 +405,13 @@ button[aria-label="Send a gift"] {
   background-color: var(--ocean-color2);
 }
 .icon-2W8DHg {
-  color: var(--ocean-color1);
+  color: var(--ocean-color2);
 }
 .modeSelected-3DmyhH .icon-2W8DHg,
 .modeSelected-3DmyhH:hover .icon-2W8DHg,
 .modeUnread-3Cxepe .icon-2W8DHg,
 .modeUnread-3Cxepe:hover .icon-2W8DHg {
-  color: var(--ocean-color2);
+  color: var(--ocean-color1);
 }
 
 .iconBadge-3Mmg92 {
