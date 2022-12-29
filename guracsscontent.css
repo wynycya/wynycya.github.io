@@ -863,11 +863,6 @@ button[aria-label="Send a gift"] {
 .customText-36Uwzc {
   color: var(--ocean-color2);
 }
-.icons-2mwuFp > div .iconSpacing-3rBbgf[aria-label="Server Muted"] > div .icon-N9JZb6, .icons-2mwuFp > div .iconSpacing-3rBbgf[aria-label="Server Deafened"] > div .icon-N9JZb6 {
-  color: var(--ocean-color6);
-}.icons-2mwuFp > div .iconSpacing-3rBbgf > div .icon-N9JZb6 {
-  color: var(--ocean-color2);
-}
 .activityText-1rR-8O {
   color: var(--ocean-color2);
 }
