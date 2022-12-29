@@ -19,8 +19,8 @@
   --ocean-emoji-picker-color: 0deg;
 }
 
-.icon-N9JZb6 / div .iconSpacing-3rBbgf[aria-label="Deafened"],
-.icon-N9JZb6 / div .iconSpacing-3rBbgf[aria-label="Muted"] {
+[aria-label="Deafened"].iconSpacing-3rBbgf,
+[aria-label="Muted"].iconSpacing-3rBbgf {
   color: var(--ocean-color1);
 }
 #app-mount .container-2cd8Mz,
