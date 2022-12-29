@@ -331,12 +331,9 @@ min-height: 55px;
 .label-2gNW3x {
   color: var(--ocean-color2);
 }
-.colorDanger-3n-KnP.focused-3qFvc8 {
-  background-color: var(--ocean-color3);
-  color: var(--ocean-color1);
-}
-.colorDefault-CDqZdO.label-2gNW3x {
-  color: var(--ocean-color6);
+.colorDefault-CDqZdO.focused-3qFvc8 {
+  background-color: var(--ocean-color6);
+  color: var(--ocean-color3);
 }
 
 .header-Imy05m {
