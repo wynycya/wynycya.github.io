@@ -15,12 +15,12 @@
   --ocean-color3: #4C2D31;
   --ocean-color4: #164C81;
   --ocean-color5: #000000;
-  --ocean-color6: #F00020;
+  --ocean-color6: #fca7b2;
   --ocean-emoji-picker-color: 0deg;
 }
 
 .draggable-S2aEx4 {
-  background-color: var(--ocean-color1);
+  background-color: var(--ocean-color6);
 }
 
 #app-mount .container-2cd8Mz,
