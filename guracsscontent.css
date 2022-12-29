@@ -15,6 +15,7 @@
   --ocean-color3: #4C2D31;
   --ocean-color4: #164C81;
   --ocean-color5: #000000;
+  --ocean-color6: #F00020;
   --ocean-emoji-picker-color: 0deg;
 }
 
@@ -329,6 +330,10 @@ min-height: 55px;
 }
 .label-2gNW3x {
   color: var(--ocean-color2);
+}
+.colorDanger-3n-KnP {
+  background-color: var(--ocean-color6);
+  color: var(--ocean-color1);
 }
 .colorDefault-CDqZdO.focused-3qFvc8 {
   background-color: var(--ocean-color3);
