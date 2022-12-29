@@ -19,7 +19,7 @@
   --ocean-emoji-picker-color: 0deg;
 }
 
-.icon-N9JZb6 {
+.icon-N9JZb6 /svg [aria-label="Muted"]{
   color: var(--ocean-color2);
 }
 #app-mount .container-2cd8Mz,
