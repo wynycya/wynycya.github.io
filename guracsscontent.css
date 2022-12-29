@@ -864,7 +864,7 @@ button[aria-label="Send a gift"] {
 .customText-36Uwzc {
   color: var(--ocean-color2);
 }
-.iconServer-GeSR0b{
+.icons-2mwuFp[aria-label="Server Muted"], .icons-2mwuFp[aria-label="Server Deafened"] {
   color: var(--ocean-color6);
 }
 .activityText-1rR-8O {
