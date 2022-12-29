@@ -858,14 +858,15 @@ button[aria-label="Send a gift"] {
 .header-3rvP-v,
 .addButtonIcon-3rJeaD,
 .username-vAneIW,
-.icon-N9JZb6,
 .status-3TYC5W,
 .description-3Cwkxk,
 .customText-36Uwzc {
   color: var(--ocean-color2);
 }
-.iconSpacing-3rBbgf[aria-label="Server Muted"], .iconSpacing-3rBbgf[aria-label="Server Deafened"] {
+.icons-2mwuFp > div .iconSpacing-3rBbgf[aria-label="Server Muted"] > div .icon-N9JZb6, .icons-2mwuFp > div .iconSpacing-3rBbgf[aria-label="Server Deafened"] > div .icon-N9JZb6 {
   color: var(--ocean-color6);
+}.icons-2mwuFp > div .iconSpacing-3rBbgf > div .icon-N9JZb6 {
+  color: var(--ocean-color2);
 }
 .activityText-1rR-8O {
   color: var(--ocean-color2);
