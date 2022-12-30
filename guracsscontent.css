@@ -22,13 +22,16 @@
 .draggable-S2aEx4 {
   background-color: var(--ocean-color6);
 }
-.memberInner--L4X2b.layout-1qmrhw {
+.content-1Tgc42 {
+  background-color: var(--ocean-color6);
+}
+.clickable-1ctZ-H {
+  background-color: var(--ocean-color3);
+}
+.container-1oeRFJ  {
   background-color: var(--ocean-color6);
 }
 .clickable-28SzVr {
-  background-color: var(--ocean-color3);
-}
-.clickable-1ctZ-H {
   background-color: var(--ocean-color3);
 }
 
@@ -48,7 +51,6 @@
 .wrapper-15CKyy,
 .wrapper-1_HaEi,
 .wrapper-22ayhK,
-.buttonActive-Uc1jHx ,
 body {
   background: 0 0;
 }
@@ -953,9 +955,6 @@ button[aria-label="Send a gift"] {
 .button-1EGGcP.buttonColor-3bP3fX:hover, .button-1EGGcP .buttonColor-3bP3fX:hover, .colorable-3rVGna.primaryDark-2UJt1G, .colorable-3rVGna.primaryDark-2UJt1G.active-3D763s, .colorable-3rVGna.primaryDark-2UJt1G:hover {
   background-color: var(--ocean-color1);
   color: var(--ocean-color2);
-}
-.icon-39rdLt{
-  background-color: var(--ocean-color1);
 }
 
 .item-1OdjEX {
